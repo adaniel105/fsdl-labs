@@ -1,1 +1,1 @@
-fsdl web deployment lab
+Notes from Full Stack deep learning Course.
